@@ -1,4 +1,4 @@
-import { CategoriesMiniCard } from "@/types";
+import { type CategoriesMiniCard } from "@/types";
 
 export default function CategoriesMiniCard({
   title,
